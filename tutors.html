@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+
+</head>
+<body>
+
+      <h3>Tutors</h3>
+      <table id = "tutorlist" style = "border: 1px solid black; border-collapse: collapse;padding: 5px;"></table>
+
+      <button  class="btn btn-outline-dark">Search</button>
+
+      <h1>Need to update the contents below</h1>
+      <form>
+        <div class="form-group col-md-2">
+        <label>Name</label>
+        <input type="text" id="name" class="form-control">
+        </div>
+        <div class="form-group col-md-2">
+        <label>Rating</label>
+        <input type="text" id="rating" class="form-control">
+        </div>
+        <div class="form-group col-md-2">
+            <label>About Tutor</label>
+            <textarea id="desc" class="form-control">
+            </textarea>
+        </div>
+        <div class="form-group col-md-2">
+            <label>Courses</label>
+            <textarea id="loc" class="form-control">
+            </textarea>
+        </div>
+        <div class="form-group col-md-2">
+            <label>Education</label>
+            <textarea id="edu" class="form-control">
+            </textarea>
+        </div>
+        <!-- </div> -->
+        <div class="form-group col-md-2">
+        <button id="add" class="btn btn-outline-dark">Add Tutor</button>
+        </div>
+
+    </form>
+
+    <form>
+        <div class="form-group col-md-2">
+        <h3>Delete tutor</h3>
+        <label>Name</label>
+        <input type = "text" id = "delete" class = "form-control" placeholder="Enter the name of the movie you want to delete">
+        <button id="del" class="btn btn-outline-dark">Delete video</button>
+        </div>
+    </form>
+
+
+      <script src = "./javascripts/tutors.js"></script>
+   
+</body>
+</html>

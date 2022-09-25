@@ -1,0 +1,282 @@
+[
+    {
+        "name" : "Vedant Shah",
+        "email" : "vedantshah@gmail.com",
+        "password" : "abcd@1234",
+        "phoneNo" : "1234567890",
+        "image" : "https://i.imgur.com/0ofOcWE.jpg",
+        "location" : "Richardson, TX, USA",
+        "aboutMe" : "I have experince for about 15 years in this field of Computer Science. Currently I am a Tenured professor at the UTD.",
+        "details" : [{"name":"Ph.D., Computer Science, Georgia State University, 2012"},
+                    {"name":"M.S., Computer Science, Georgia State University, 2007"},
+                    {"name":"Bachelor of Computer Engineering, University of Madras, India"}],
+        "course" : [
+                    {
+                        "_courseId" : 123,
+                        "courseName" : "Python for Beginners",
+                        "courseDesciption" : "In this Course I will teach pyhton from the basic and this course if for everyone even who dont have background in coding.",
+                        "rating" : 4.5
+                    },
+                    {
+                        "_courseId" : 456,
+                        "courseName" : "Advance Java",
+                        "courseDesciption" : "In this Course I will teach java. This is a advance course and the students need to be aquainted with javascript.",
+                        "rating" : 4.8
+                    }
+                ],
+        "rating" : 4.7,
+        "startTime" : 1648609200,
+        "endTime" : 1648616400,
+        "totalHours" : 240
+    },
+    
+    {
+        "name" : "Surya Palaniswamy",
+        "email" : "suryapalaniswamy@gmail.com",
+        "password" : "qwerty@1234",
+        "phoneNo" : "1234567890",
+        "image" : "https://i.imgur.com/FGjGyYG.jpg",
+        "location" : "Ithaca, NY, USA",
+        "aboutMe" : "I have experince for about 20 years in this field of Computer Science. Currently I am a Research professor at the Cornell University. ",
+        "details" : [{"name":"Ph.D., The University of Texas at Austin, Austin, TX"},
+                    {"name":"M.A., The University of Texas at Austin, Austin, TX"},
+                    {"name":"B.S., The University of Texas at El Paso, El Paso, TX"}],
+        "course" : [
+                    {
+                        "_courseId" : 987,
+                        "courseName" : "C++ for Beginners",
+                        "courseDesciption" : "In this Course I will teach C++ from the basic and this course if for everyone even who dont have background in coding",
+                        "rating" : 4.3
+                    },
+                    {
+                        "_courseId" : 876,
+                        "courseName" : "Web Programming with Javascript",
+                        "courseDesciption" : "In this Course I will teach javascript. This is a advance course and the students need to be aquainted with HTML and CSS.",
+                        "rating" : 4.9
+                    }
+                ],
+        "rating" : 4.6,
+        "startTime" : 1648609200,
+        "endTime" : 1648616400,
+        "totalHours" : 120
+    },
+    
+    {
+        "name" : "Ekaterina Lepekhina",
+        "email" : "ekaterinalepekhina@gmail.com",
+        "password" : "asdfg@1234",
+        "phoneNo" : "1234567890",
+        "image" : "https://i.imgur.com/M02oJCy.jpg",
+        "location" : "Beverly Hills, CA, USA",
+        "aboutMe" : "I have experince for about 12 years in this field of Computer Science. Currently I am a Insructor professor at the  UCLA. ",
+        "details" : [{"name":"Ph.D., Computer Science, The University of Texas at Dallas, 2011"},
+                    {"name":"M.S., Computer Science, The University of Texas at Dallas, 2009"},
+                    {"name":"B.S., Computer Science, The University of Texas at Dallas, 2005"}],
+        "course" : [
+                    {
+                        "_courseId" : 987,
+                        "courseName" : "Data Analytics with Python",
+                        "courseDesciption" : "In this Course I will teach performing Data Analysis with Python from the basic and this course students need to have background in coding in python",
+                        "rating" : 4.4
+                    },
+                    {
+                        "_courseId" : 876,
+                        "courseName" : "Web Programming from Basics",
+                        "courseDesciption" : "In this Course I will teach HTML and CSS. This is a basic course for antone who wants to learn web programming.",
+                        "rating" : 4.7
+                    }
+                ],
+        "rating" : 4.5,
+        "startTime" : 1648609200,
+        "endTime" : 1648616400,
+        "totalHours" : 180
+    },
+    
+    {
+        "name" : "Vedant Shah",
+        "email" : "vedantshah@gmail.com",
+        "password" : "abcd@1234",
+        "phoneNo" : "1234567890",
+        "image" : "https://i.imgur.com/0ofOcWE.jpg",
+        "location" : "Richardson, TX, USA",
+        "aboutMe" : "I have experince for about 15 years in this field of Computer Science. Currently I am a Tenured professor at the UTD.",
+        "details" : [{"name":"Ph.D., Computer Science, Georgia State University, 2012"},
+                    {"name":"M.S., Computer Science, Georgia State University, 2007"},
+                    {"name":"Bachelor of Computer Engineering, University of Madras, India"}],
+        "course" : [
+                    {
+                        "_courseId" : 123,
+                        "courseName" : "Python for Beginners",
+                        "courseDesciption" : "In this Course I will teach pyhton from the basic and this course if for everyone even who dont have background in coding",
+                        "rating" : 4.5
+                    },
+                    {
+                        "_courseId" : 456,
+                        "courseName" : "Advance Java",
+                        "courseDesciption" : "In this Course I will teach java. This is a advance course and the students need to be aquainted with javascript.",
+                        "rating" : 4.8
+                    }
+                ],
+        "rating" : 4.7,
+        "startTime" : 1648609200,
+        "endTime" : 1648616400,
+        "totalHours" : 240
+    },
+    
+    {
+        "name" : "Surya Palaniswamy",
+        "email" : "suryapalaniswamy@gmail.com",
+        "password" : "qwerty@1234",
+        "phoneNo" : "1234567890",
+        "image" : "https://i.imgur.com/FGjGyYG.jpg",
+        "location" : "Ithaca, NY, USA",
+        "aboutMe" : "I have experince for about 20 years in this field of Computer Science. Currently I am a Research professor at the Cornell University. ",
+        "details" : [{"name":"Ph.D., The University of Texas at Austin, Austin, TX"},
+                    {"name":"M.A., The University of Texas at Austin, Austin, TX"},
+                    {"name":"B.S., The University of Texas at El Paso, El Paso, TX"}],
+        "course" : [
+                    {
+                        "_courseId" : 987,
+                        "courseName" : "C++ for Beginners",
+                        "courseDesciption" : "In this Course I will teach C++ from the basic and this course if for everyone even who dont have background in coding",
+                        "rating" : 4.3
+                    },
+                    {
+                        "_courseId" : 876,
+                        "courseName" : "Web Programming with Javascript",
+                        "courseDesciption" : "In this Course I will teach javascript. This is a advance course and the students need to be aquainted with HTML and CSS.",
+                        "rating" : 4.9
+                    }
+                ],
+        "rating" : 4.6,
+        "startTime" : 1648609200,
+        "endTime" : 1648616400,
+        "totalHours" : 120
+    },
+    
+    {
+        "name" : "Ekaterina Lepekhina",
+        "email" : "ekaterinalepekhina@gmail.com",
+        "password" : "asdfg@1234",
+        "phoneNo" : "1234567890",
+        "image" : "https://i.imgur.com/M02oJCy.jpg",
+        "location" : "Beverly Hills, CA, USA",
+        "aboutMe" : "I have experince for about 12 years in this field of Computer Science. Currently I am a Insructor professor at the  UCLA. ",
+        "details" : [{"name":"Ph.D., Computer Science, The University of Texas at Dallas, 2011"},
+                    {"name":"M.S., Computer Science, The University of Texas at Dallas, 2009"},
+                    {"name":"B.S., Computer Science, The University of Texas at Dallas, 2005"}],
+        "course" : [
+                    {
+                        "_courseId" : 987,
+                        "courseName" : "Data Analytics with Python",
+                        "courseDesciption" : "In this Course I will teach performing Data Analysis with Python from the basic and this course students need to have background in coding in python.",
+                        "rating" : 4.4
+                    },
+                    {
+                        "_courseId" : 876,
+                        "courseName" : "Web Programming from Basics",
+                        "courseDesciption" : "In this Course I will teach HTML and CSS. This is a basic course for antone who wants to learn web programming.",
+                        "rating" : 4.7
+                    }
+                ],
+        "rating" : 4.5,
+        "startTime" : 1648609200,
+        "endTime" : 1648616400,
+        "totalHours" : 180
+    },
+    
+    {
+        "name" : "Vedant Shah",
+        "email" : "vedantshah@gmail.com",
+        "password" : "abcd@1234",
+        "phoneNo" : "1234567890",
+        "image" : "https://i.imgur.com/0ofOcWE.jpg",
+        "location" : "Richardson, TX, USA",
+        "aboutMe" : "I have experince for about 15 years in this field of Computer Science. Currently I am a Tenured professor at the UTD.",
+        "details" : [{"name":"Ph.D., Computer Science, Georgia State University, 2012"},
+                    {"name":"M.S., Computer Science, Georgia State University, 2007"},
+                    {"name":"Bachelor of Computer Engineering, University of Madras, India"}],
+        "course" : [
+                    {
+                        "_courseId" : 123,
+                        "courseName" : "Python for Beginners",
+                        "courseDesciption" : "In this Course I will teach pyhton from the basic and this course if for everyone even who dont have background in coding",
+                        "rating" : 4.5
+                    },
+                    {
+                        "_courseId" : 456,
+                        "courseName" : "Advance Java",
+                        "courseDesciption" : "In this Course I will teach java. This is a advance course and the students need to be aquainted with javascript.",
+                        "rating" : 4.8
+                    }
+                ],
+        "rating" : 4.7,
+        "startTime" : 1648609200,
+        "endTime" : 1648616400,
+        "totalHours" : 240
+    },
+    
+    {
+        "name" : "Surya Palaniswamy",
+        "email" : "suryapalaniswamy@gmail.com",
+        "password" : "qwerty@1234",
+        "phoneNo" : "1234567890",
+        "image" : "https://i.imgur.com/FGjGyYG.jpg",
+        "location" : "Ithaca, NY, USA",
+        "aboutMe" : "I have experince for about 20 years in this field of Computer Science. Currently I am a Research professor at the Cornell University",
+        "details" : [{"name":"Ph.D., The University of Texas at Austin, Austin, TX"},
+                    {"name":"M.A., The University of Texas at Austin, Austin, TX"},
+                    {"name":"B.S., The University of Texas at El Paso, El Paso, TX"}],
+        "course" : [
+                    {
+                        "_courseId" : 987,
+                        "courseName" : "C++ for Beginners",
+                        "courseDesciption" : "In this Course I will teach C++ from the basic and this course if for everyone even who dont have background in coding",
+                        "rating" : 4.3
+                    },
+                    {
+                        "_courseId" : 876,
+                        "courseName" : "Web Programming with Javascript",
+                        "courseDesciption" : "In this Course I will teach javascript. This is a advance course and the students need to be aquainted with HTML and CSS.",
+                        "rating" : 4.9
+                    }
+                ],
+        "rating" : 4.6,
+        "startTime" : 1648609200,
+        "endTime" : 1648616400,
+        "totalHours" : 120
+    },
+    
+    {
+        "name" : "Ekaterina Lepekhina",
+        "email" : "ekaterinalepekhina@gmail.com",
+        "password" : "asdfg@1234",
+        "phoneNo" : "1234567890",
+        "image" : "https://i.imgur.com/M02oJCy.jpgg",
+        "location" : "Beverly Hills, CA, USA",
+        "aboutMe" : "I have experince for about 12 years in this field of Computer Science. Currently I am a Insructor professor at the  UCLA. ",
+        "details" : [{"name":"Ph.D., Computer Science, The University of Texas at Dallas, 2011"},
+                    {"name":"M.S., Computer Science, The University of Texas at Dallas, 2009"},
+                    {"name":"B.S., Computer Science, The University of Texas at Dallas, 2005"}],
+        "course" : [
+                    {
+                        "_courseId" : 987,
+                        "courseName" : "Data Analytics with Python",
+                        "courseDesciption" : "In this Course I will teach performing Data Analysis with Python from the basic and this course students need to have background in coding in python",
+                        "rating" : 4.4
+                    },
+                    {
+                        "_courseId" : 876,
+                        "courseName" : "Web Programming from Basics",
+                        "courseDesciption" : "In this Course I will teach HTML and CSS. This is a basic course for antone who wants to learn web programming.",
+                        "rating" : 4.7
+                    }
+                ],
+        "rating" : 4.5,
+        "startTime" : 1648609200,
+        "endTime" : 1648616400,
+        "totalHours" : 180
+    }
+    
+    
+    ]

@@ -1,0 +1,394 @@
+[{
+  "_id": {
+    "$oid": "62777d3210e915535617d21a"
+  },
+  "name": "Vedant Shah",
+  "email": "vedantshah@gmail.com",
+  "password": "abcd@1234",
+  "phoneNo": "1234567890",
+  "image": "https://i.imgur.com/0ofOcWE.jpg",
+  "location": "Richardson, TX, USA",
+  "aboutMe": "I have experince for about 15 years in this field of Computer Science. Currently I am a Tenured professor at the UTD.",
+  "details": "Phd in Computer Engineering, Cornell University, USA",
+  "course": [
+    {
+      "courseId": {
+        "$oid": "62777d2710e915535617d218"
+      },
+      "courseName": "Python for Beginners",
+      "courseDescription": "In this Course I will teach pyhton from the basic and this course if for everyone even who dont have background in coding.",
+      "courseRating": {
+        "courseReviews": 30,
+        "CourseStars": 4.3
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "62777d2d10e915535617d219"
+      },
+      "courseName": "Advance Java",
+      "courseDescription": "In this Course I will teach java. This is a advance course and the students need to be aquainted with javascript.",
+      "courseRating": {
+        "courseReviews": 20,
+        "courseStars": 4.7
+      }
+    }
+  ],
+  "tutorRating": {
+    "tutorReviews": 50,
+    "tutorStars": 4.5
+  },
+  "totalHours": 240
+},{
+  "_id": {
+    "$oid": "62777d7910e915535617d21e"
+  },
+  "name": "Surya Palaniswamy",
+  "email": "suryapalaniswamy@gmail.com",
+  "password": "qwerty@1234",
+  "phoneNo": "1234567890",
+  "image": "https://i.imgur.com/FGjGyYG.jpg",
+  "location": "Ithaca, NY, USA",
+  "aboutMe": "I have experince for about 20 years in this field of Computer Science. Currently I am a Research professor at the Cornell University. ",
+  "details": "Ph.D., The University of Texas at Austin, Austin, USA",
+  "course": [
+    {
+      "courseId": {
+        "$oid": "62777d6e10e915535617d21c"
+      },
+      "courseName": "C++ for Beginners",
+      "courseDescription": "In this Course I will teach C++ from the basic and this course if for everyone even who dont have background in coding",
+      "courseRating": {
+        "courseReviews": 25,
+        "CourseStars": 4.8
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "62777d7810e915535617d21d"
+      },
+      "courseName": "Web Programming with Javascript",
+      "courseDescription": "In this Course I will teach javascript. This is a advance course and the students need to be aquainted with HTML and CSS.",
+      "courseRating": {
+        "courseReviews": 35,
+        "CourseStars": 4.3
+      }
+    }
+  ],
+  "tutorRating": {
+    "tutorReviews": 60,
+    "tutorStars": 4.5
+  },
+  "totalHours": 120
+},{
+  "_id": {
+    "$oid": "62777db010e915535617d222"
+  },
+  "name": "Ekaterina Lepekhina",
+  "email": "ekaterinalepekhina@gmail.com",
+  "password": "asdfg@1234",
+  "phoneNo": "1234567890",
+  "image": "https://i.imgur.com/M02oJCy.jpg",
+  "location": "Beverly Hills, CA, USA",
+  "aboutMe": "I have experince for about 12 years in this field of Computer Science. Currently I am a Insructor professor at the  UCLA. ",
+  "details": "Ph.D., Computer Science, The University of Texas at Dallas, USA",
+  "course": [
+    {
+      "courseId": {
+        "$oid": "62777daa10e915535617d220"
+      },
+      "courseName": "Data Analytics with Python",
+      "courseDescription": "In this Course I will teach performing Data Analysis with Python from the basic and this course students need to have background in coding in python",
+      "courseRating": {
+        "courseReviews": 20,
+        "CourseStars": 4.3
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "62777daf10e915535617d221"
+      },
+      "courseName": "Web Programming from Basics",
+      "courseDescription": "In this Course I will teach HTML and CSS. This is a basic course for antone who wants to learn web programming.",
+      "courseRating": {
+        "courseReviews": 25,
+        "CourseStars": 4.7
+      }
+    }
+  ],
+  "tutorRating": {
+    "tutorReviews": 45,
+    "tutorStars": 4.5
+  },
+  "totalHours": 180
+},{
+  "_id": {
+    "$oid": "62777dda10e915535617d224"
+  },
+  "name": "Naivedh Shah",
+  "email": "naivedhshah@gmail.com",
+  "password": "abcd@1234",
+  "phoneNo": "1234567890",
+  "image": "https://i.imgur.com/0ofOcWE.jpg",
+  "location": "Richardson, TX, USA",
+  "aboutMe": "I have experince for about 15 years in this field of Computer Science. Currently I am a Tenured professor at the UTD.",
+  "details": "Ph.D., Computer Science, Georgia State University, USA",
+  "course": [
+    {
+      "courseId": {
+        "$oid": "62777de810e915535617d22a"
+      },
+      "courseName": "Python for Beginners",
+      "courseDescription": "In this Course I will teach pyhton from the basic and this course if for everyone even who dont have background in coding",
+      "courseRating": {
+        "courseReviews": 25,
+        "CourseStars": 4.5
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "62777df110e915535617d22b"
+      },
+      "courseName": "Advance Java",
+      "courseDescription": "In this Course I will teach java. This is a advance course and the students need to be aquainted with javascript.",
+      "courseRating": {
+        "courseReviews": 25,
+        "CourseStars": 4.8
+      }
+    }
+  ],
+  "tutorRating": {
+    "tutorReviews": 50,
+    "tutorStars": 4.6
+  },
+  "totalHours": 240
+},{
+  "_id": {
+    "$oid": "62777dda10e915535617d225"
+  },
+  "name": "Rishi Patil",
+  "email": "rishipatil@gmail.com",
+  "password": "qwerty@1234",
+  "phoneNo": "1234567890",
+  "image": "https://i.imgur.com/FGjGyYG.jpg",
+  "location": "Ithaca, NY, USA",
+  "aboutMe": "I have experince for about 20 years in this field of Computer Science. Currently I am a Research professor at the Cornell University. ",
+  "details": "Ph.D., The University of Texas at Austin, USA",
+  "course": [
+    {
+      "courseId": {
+        "$oid": "62777e0010e915535617d22c"
+      },
+      "courseName": "C++ for Beginners",
+      "courseDescription": "In this Course I will teach C++ from the basic and this course if for everyone even who dont have background in coding",
+      "courseRating": {
+        "courseReviews": 35,
+        "CourseStars": 4.3
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "62777e0810e915535617d22d"
+      },
+      "courseName": "Web Programming with Javascript",
+      "courseDescription": "In this Course I will teach javascript. This is a advance course and the students need to be aquainted with HTML and CSS.",
+      "courseRating": {
+        "courseReviews": 35,
+        "CourseStars": 4.8
+      }
+    }
+  ],
+  "tutorRating": {
+    "tutorReviews": 70,
+    "tutorStars": 4.5
+  },
+  "totalHours": 120
+},{
+  "_id": {
+    "$oid": "62777dda10e915535617d226"
+  },
+  "name": "Sid Rai",
+  "email": "sidrai@gmail.com",
+  "password": "asdfg@1234",
+  "phoneNo": "1234567890",
+  "image": "https://i.imgur.com/M02oJCy.jpg",
+  "location": "Beverly Hills, CA, USA",
+  "aboutMe": "I have experince for about 12 years in this field of Computer Science. Currently I am a Insructor professor at the  UCLA. ",
+  "details": "Ph.D., Computer Science, The University of Texas at Dallas, USA",
+  "course": [
+    {
+      "courseId": {
+        "$oid": "62777e1610e915535617d22e"
+      },
+      "courseName": "Data Analytics with Python",
+      "courseDescription": "In this Course I will teach performing Data Analysis with Python from the basic and this course students need to have background in coding in python.",
+      "courseRating": {
+        "courseReviews": 35,
+        "CourseStars": 4.2
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "62777e1e10e915535617d22f"
+      },
+      "courseName": "Web Programming from Basics",
+      "courseDescription": "In this Course I will teach HTML and CSS. This is a basic course for antone who wants to learn web programming.",
+      "courseRating": {
+        "courseReviews": 15,
+        "CourseStars": 4.6
+      }
+    }
+  ],
+  "tutorRating": {
+    "tutorReviews": 50,
+    "tutorStars": 4.4
+  },
+  "totalHours": 180
+},{
+  "_id": {
+    "$oid": "62777dda10e915535617d227"
+  },
+  "name": "Kirit Samayan",
+  "email": "kiritsamyan@gmail.com",
+  "password": "abcd@1234",
+  "phoneNo": "1234567890",
+  "image": "https://i.imgur.com/0ofOcWE.jpg",
+  "location": "Richardson, TX, USA",
+  "aboutMe": "I have experince for about 15 years in this field of Computer Science. Currently I am a Tenured professor at the UTD.",
+  "details": "Ph.D., Computer Science, Georgia State University, USA",
+  "course": [
+    {
+      "courseId": {
+        "$oid": "62777e2d10e915535617d230"
+      },
+      "courseName": "Python for Beginners",
+      "courseDescription": "In this Course I will teach pyhton from the basic and this course if for everyone even who dont have background in coding",
+      "courseRating": {
+        "courseReviews": 25,
+        "CourseStars": 4.8
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "62777e3410e915535617d231"
+      },
+      "courseName": "Advance Java",
+      "courseDescription": "In this Course I will teach java. This is a advance course and the students need to be aquainted with javascript.",
+      "courseRating": {
+        "courseReviews": 25,
+        "CourseStars": 4.8
+      }
+    }
+  ],
+  "tutorRating": {
+    "tutorReviews": 50,
+    "tutorStars": 4.8
+  },
+  "totalHours": 240
+},{
+  "_id": {
+    "$oid": "62777dda10e915535617d228"
+  },
+  "name": "Aadit Shah",
+  "email": "Aaditshah@gmail.com",
+  "password": "qwerty@1234",
+  "phoneNo": "1234567890",
+  "image": "https://i.imgur.com/FGjGyYG.jpg",
+  "location": "Ithaca, NY, USA",
+  "aboutMe": "I have experince for about 20 years in this field of Computer Science. Currently I am a Research professor at the Cornell University",
+  "details": "Ph.D., The University of Texas at Austin, Austin, USA",
+  "course": [
+    {
+      "courseId": {
+        "$oid": "62777e3f10e915535617d232"
+      },
+      "courseName": "C++ for Beginners",
+      "courseDescription": "In this Course I will teach C++ from the basic and this course if for everyone even who dont have background in coding",
+      "courseRating": {
+        "courseReviews": 50,
+        "CourseStars": 4.6
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "62777e4810e915535617d233"
+      },
+      "courseName": "Web Programming with Javascript",
+      "courseDescription": "In this Course I will teach javascript. This is a advance course and the students need to be aquainted with HTML and CSS.",
+      "courseRating": {
+        "courseReviews": 25,
+        "CourseStars": 4.8
+      }
+    }
+  ],
+  "tutorRating": {
+    "tutorReviews": 70,
+    "tutorStars": 4.7
+  },
+  "totalHours": 180
+},{
+  "_id": {
+    "$oid": "62777dda10e915535617d229"
+  },
+  "name": "Parmeet Saluja",
+  "email": "parmeetsaluja@gmail.com",
+  "password": "asdfg@1234",
+  "phoneNo": "1234567890",
+  "image": "https://i.imgur.com/M02oJCy.jpgg",
+  "location": "Beverly Hills, CA, USA",
+  "aboutMe": "I have experince for about 12 years in this field of Computer Science. Currently I am a Insructor professor at the  UCLA. ",
+  "details": "Ph.D., Computer Science, The University of Texas at Dallas, USA",
+  "course": [
+    {
+      "courseId": {
+        "$oid": "62777e5610e915535617d234"
+      },
+      "courseName": "Data Analytics with Python",
+      "courseDescription": "In this Course I will teach performing Data Analysis with Python from the basic and this course students need to have background in coding in python",
+      "courseRating": {
+        "courseReviews": 25,
+        "CourseStars": 4.5
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "62777e5f10e915535617d235"
+      },
+      "courseName": "Web Programming from Basics",
+      "courseDescription": "In this Course I will teach HTML and CSS. This is a basic course for antone who wants to learn web programming.",
+      "courseRating": {
+        "courseReviews": 25,
+        "CourseStars": 4.5
+      }
+    }
+  ],
+  "tutorRating": {
+    "tutorReviews": 50,
+    "tutorStars": 4.5
+  },
+  "totalHours": 180
+},{
+  "_id": {
+    "$oid": "6280553e2745303ecc2069c6"
+  },
+  "name": "hello",
+  "email": "tutor@gmail.com",
+  "password": "$2b$10$tCGKU5gceXdYP23/QjFt5OXRWA/U8FtzMVT9zCl7ugVKkh2vQKOay",
+  "phoneNo": "123",
+  "image": "C:\\fakepath\\tutor.jpg",
+  "location": "usa",
+  "aboutMe": "tutor",
+  "details": "i like teaching"
+},{
+  "_id": {
+    "$oid": "62807b289a0e100f68e512c7"
+  },
+  "name": "berkeley sumpter",
+  "email": "sumpter@gmail.com",
+  "password": "$2b$10$3nFVSF//.DV2HtaIosRjtu96TvPVhUvuqRklhmXAljc/P5rHkkapO",
+  "phoneNo": "9728834189",
+  "image": "",
+  "location": "USA",
+  "aboutMe": "PHD from Stanford University",
+  "details": "i like teaching"
+}]

@@ -1,0 +1,296 @@
+[{
+  "_id": {
+    "$oid": "6278a11110e915535617d23b"
+  },
+  "name": "Harsh Malhan",
+  "email": "harshmalhan@gmail.com",
+  "password": "qwerty@12345",
+  "phoneNo": "9087654321",
+  "image": "_wpl1001.jpg",
+  "coursesEnrolled": [
+    {
+      "_id": {
+        "$oid": "6278a0fd10e915535617d239"
+      },
+      "courseId": {
+        "$oid": "62777d2710e915535617d218"
+      },
+      "tutorId": {
+        "$oid": "62777d3210e915535617d21a"
+      },
+      "isFavourite": "True",
+      "rating": 4.9,
+      "commentId": {
+        "$oid": "6278a5e710e915535617d25e"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6278a10c10e915535617d23a"
+      },
+      "courseId": {
+        "$oid": "62777daa10e915535617d220"
+      },
+      "tutorId": {
+        "$oid": "62777db010e915535617d222"
+      },
+      "isFavourite": "False",
+      "rating": 4.5,
+      "commentId": null
+    }
+  ],
+  "totalHours": 20,
+  "favourites": [
+    "62777d3210e915535617d21a"
+  ]
+},{
+  "_id": {
+    "$oid": "6278a14310e915535617d23f"
+  },
+  "name": "Shlok Thakkar",
+  "email": "shlokthakkar@gmail.com",
+  "password": "qwerty@12345",
+  "phoneNo": "9087654321",
+  "image": "_wpl1001.jpg",
+  "coursesEnrolled": [
+    {
+      "_id": {
+        "$oid": "6278a13510e915535617d23d"
+      },
+      "courseId": {
+        "$oid": "62777d2d10e915535617d219"
+      },
+      "tutorId": {
+        "$oid": "62777d3210e915535617d21a"
+      },
+      "isFavourite": "True",
+      "rating": 4.4,
+      "commentId": null
+    },
+    {
+      "_id": {
+        "$oid": "6278a13c10e915535617d23e"
+      },
+      "courseId": {
+        "$oid": "62777daf10e915535617d221"
+      },
+      "tutorId": {
+        "$oid": "62777db010e915535617d222"
+      },
+      "isFavourite": "True",
+      "rating": 4.8,
+      "commentId": {
+        "$oid": "6278a65010e915535617d264"
+      }
+    }
+  ],
+  "totalHours": 15,
+  "favourites": [
+    "62777db010e915535617d222",
+    "62777d3210e915535617d21a"
+  ]
+},{
+  "_id": {
+    "$oid": "6278a17110e915535617d243"
+  },
+  "name": "Abhi Shah",
+  "email": "abhishah@gmail.com",
+  "password": "qwerty@12345",
+  "phoneNo": "9087654321",
+  "image": "_wpl1001.jpg",
+  "coursesEnrolled": [
+    {
+      "_id": {
+        "$oid": "6278a16110e915535617d241"
+      },
+      "courseId": {
+        "$oid": "62777d6e10e915535617d21c"
+      },
+      "tutorId": {
+        "$oid": "62777d7910e915535617d21e"
+      },
+      "isFavourite": "True",
+      "rating": 4.4,
+      "commentId": {
+        "$oid": "6278a69210e915535617d267"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6278a16a10e915535617d242"
+      },
+      "courseId": {
+        "$oid": "62777de810e915535617d22a"
+      },
+      "tutorId": {
+        "$oid": "62777dda10e915535617d224"
+      },
+      "isFavourite": "False",
+      "rating": 4.8,
+      "commentId": {
+        "$oid": "6278a6d110e915535617d26a"
+      }
+    }
+  ],
+  "totalHours": 25,
+  "favourites": [
+    "62777d7910e915535617d21e"
+  ]
+},{
+  "_id": {
+    "$oid": "6278a1a310e915535617d247"
+  },
+  "name": "Rushi Parikh",
+  "email": "rushiparikh@gmail.com",
+  "password": "qwerty@12345",
+  "phoneNo": "9087654321",
+  "image": "_wpl1001.jpg",
+  "coursesEnrolled": [
+    {
+      "_id": {
+        "$oid": "6278a19610e915535617d245"
+      },
+      "courseId": {
+        "$oid": "62777d7810e915535617d21d"
+      },
+      "tutorId": {
+        "$oid": "62777d7910e915535617d21e"
+      },
+      "isFavourite": "True",
+      "rating": 4.5,
+      "commentId": {
+        "$oid": "6278a45310e915535617d254"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6278a1a210e915535617d246"
+      },
+      "courseId": {
+        "$oid": "62777df110e915535617d22b"
+      },
+      "tutorId": {
+        "$oid": "62777dda10e915535617d224"
+      },
+      "isFavourite": "True",
+      "rating": 4.7,
+      "commentId": {
+        "$oid": "6278a4b310e915535617d25b"
+      }
+    }
+  ],
+  "totalHours": 35,
+  "favourites": [
+    "62777d7910e915535617d21e",
+    "62777dda10e915535617d224"
+  ]
+},{
+  "_id": {
+    "$oid": "6278a1d510e915535617d24b"
+  },
+  "name": "Rahee Parikh",
+  "email": "raheeparikh@gmail.com",
+  "password": "qwerty@12345",
+  "phoneNo": "9087654321",
+  "image": "_wpl1001.jpg",
+  "coursesEnrolled": [
+    {
+      "_id": {
+        "$oid": "6278a1c910e915535617d249"
+      },
+      "courseId": {
+        "$oid": "62777e5610e915535617d234"
+      },
+      "tutorId": {
+        "$oid": "62777dda10e915535617d229"
+      },
+      "isFavourite": "True",
+      "rating": 4.5,
+      "commentId": null
+    },
+    {
+      "_id": {
+        "$oid": "6278a1cf10e915535617d24a"
+      },
+      "courseId": {
+        "$oid": "62777e5f10e915535617d235"
+      },
+      "tutorId": {
+        "$oid": "62777dda10e915535617d229"
+      },
+      "isFavourite": "True",
+      "rating": 4.7,
+      "commentId": null
+    }
+  ],
+  "totalHours": 35,
+  "favourites": [
+    "62777dda10e915535617d229",
+    "62777e5f10e915535617d235"
+  ]
+},{
+  "_id": {
+    "$oid": "6278a20b10e915535617d24f"
+  },
+  "name": "Meeti Parikh",
+  "email": "meetiparikh@gmail.com",
+  "password": "qwerty@12345",
+  "phoneNo": "9087654321",
+  "image": "_wpl1001.jpg",
+  "coursesEnrolled": [
+    {
+      "_id": {
+        "$oid": "6278a1fc10e915535617d24d"
+      },
+      "courseId": {
+        "$oid": "62777e4810e915535617d233"
+      },
+      "tutorId": {
+        "$oid": "62777dda10e915535617d228"
+      },
+      "isFavourite": "False",
+      "rating": 4.5,
+      "commentId": null
+    },
+    {
+      "_id": {
+        "$oid": "6278a20610e915535617d24e"
+      },
+      "courseId": {
+        "$oid": "62777e2d10e915535617d230"
+      },
+      "tutorId": {
+        "$oid": "62777dda10e915535617d227"
+      },
+      "isFavourite": "True",
+      "rating": 4.7,
+      "commentId": null
+    }
+  ],
+  "totalHours": 35,
+  "favourites": [
+    "62777dda10e915535617d227"
+  ]
+},{
+  "_id": {
+    "$oid": "62800d16c7617c17dc58f207"
+  },
+  "name": "Hello",
+  "email": "Hello",
+  "password": "$2b$10$IR2k/vkunSGQVu0y4ujQTu2l4aMF0aflmFX0uRjZoB11b8X9AX6.a",
+  "totalHours": 20
+},{
+  "_id": {
+    "$oid": "62807a039a0e100f68e512c3"
+  },
+  "name": "patel",
+  "email": "patel@gmail.com",
+  "password": "$2b$10$UbczxHHsWNebPOVtxhy1ye.vWYOaBim/xvOQlR5.nSgAzKkS4m7ti"
+},{
+  "_id": {
+    "$oid": "62807a6a9a0e100f68e512c4"
+  },
+  "name": "parth patel",
+  "email": "parth@gmail.com",
+  "password": "$2b$10$1cmB0Z1l6DpYrC7IYSFE0.vpZKe9XgyYH1NBWNq7pQ6OE6YtCzvli"
+}]
